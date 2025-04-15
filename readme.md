@@ -1,6 +1,10 @@
 ### QQPro
 基于NWear-QQ最终版2（这个版本的qq是爅峫手改smali实现，所以无法开源）
 
+https://www.123865.com/s/jzH1jv-w9Gwh?notoken=1
+
+https://bke.lanzoub.com/iq6QW2spsowf
+
 ☆☆地表最强表Q改版 震撼推出☆☆
 
 ### 关于ApkMixin工具
